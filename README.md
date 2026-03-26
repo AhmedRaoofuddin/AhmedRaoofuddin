@@ -64,14 +64,23 @@ I am a dedicated **AI Engineer** and **Full-Stack Developer** with a strong trac
 
 ---
 
-## Let's Connect
+## Currently Working On
+
+- Building **Swarm**, an open-source distributed runtime for AI agent teams (Raft consensus, CRDT shared memory, self-healing, Mission Control dashboard)
+- Exploring multi-agent coordination patterns on top of real tools like Claude Code and Codex
+- Shipping production full-stack apps with React, Next.js, Spring Boot, and Azure
+
+## What I'm Interested In
+
+- AI agent infrastructure and orchestration at scale
+- RAG systems beyond basic Q&A (multi-hop retrieval, agentic RAG, evaluation)
+- Developer tooling for AI-native workflows
+- Open-source AI projects that solve real problems
+
+---
 
 <p align="center">
   <a href="https://www.notion.so/Ahmed-Raoofuddin-AI-Engineer-2bf5f2f17f168052a0fcd2afb8fd85e3">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedRaoofuddin&style=flat-square&color=58A6FF" alt="Profile Views" />
 </p>
